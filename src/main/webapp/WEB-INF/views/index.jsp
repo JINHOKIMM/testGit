@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h3>commit 한 내용을 취소하고 싶다면</h3>
+	<p>1.브랜치 초기화 - 특정 지점까지 초기화 하는 기능</p>
+	<p>2.reverse commit - 특정 커밋에서 실행된 내용만 취소하고, 현재 내용은 그대로 가는 것</p>
 </body>
 </html>
